@@ -1,3 +1,3 @@
 # An exciting website
 
-## With some exciting things
+## With some other sorts of things
