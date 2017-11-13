@@ -1,5 +1,7 @@
 # An exciting website
 
-## With some other sorts of things
+##  Purpose
 
 Updates made before rebase
+
+This change will conflict
