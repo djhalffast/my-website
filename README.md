@@ -3,3 +3,5 @@
 ## With some other sorts of things
 
 Updates made before rebase
+
+Adding some text
